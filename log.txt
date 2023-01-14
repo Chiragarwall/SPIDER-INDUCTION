@@ -1,0 +1,45 @@
+chira@CHIRAG_AGARWAL MINGW64 ~/OneDrive/Desktop/spider/SPIDER-INDUCTION (main)
+$ git log
+commit 9142f511a1bda6d5cbe75226b55d6a435b8e94e5 (HEAD -> main, origin/main)
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:10:11 2023 +0530
+
+    commit6_spider
+
+commit 0e078b9483b6ca1cedb4f00c67c2f1444f37827b
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:08:47 2023 +0530
+
+    commit5_spider
+
+commit 05883029f794acd6d22d267732f8ccf3721323c0
+Merge: 1b546e0 818e132
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:05:56 2023 +0530
+
+    Merge branch 'Develop'
+
+commit 818e1327a44a47477fc82e5d26196b1f4bd0d433
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:04:41 2023 +0530
+
+    commit4_Develop
+
+commit 1b546e0fffd433ff21a168d3b6217fcbac2751ed
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:03:46 2023 +0530
+
+    commit3_main
+
+commit 88b0b3a90f9a7b06f166a305e61c4393ce86980b
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:01:48 2023 +0530
+
+    commit2_Develop
+
+commit f8c96a808cfcbac7a3c83e4bd7da1a638d3d8db7
+Author: Chirag <chiragagarwal07052001@gmail.com>
+Date:   Sat Jan 14 23:00:51 2023 +0530
+
+    commit1_main
+
